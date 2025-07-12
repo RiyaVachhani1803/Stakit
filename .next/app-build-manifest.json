@@ -15,6 +15,19 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/page.js"
+<<<<<<< HEAD
+=======
+    ],
+    "/ask/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/ask/page.js"
+    ],
+    "/questions/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/questions/page.js"
+>>>>>>> 551a3f955a94b25a24a40ee942c16db176c9f569
     ]
   }
 }

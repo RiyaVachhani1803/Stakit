@@ -10,7 +10,11 @@ interface User {
 }
 
 export default function Header() {
+<<<<<<< HEAD
   const [user, setUser] = useState<User | null>({ id: '1', username: 'Riya Vachhani' });
+=======
+  const [user, setUser] = useState<User | null>({ id: '1', username: 'Riya vachhani' });
+>>>>>>> 551a3f955a94b25a24a40ee942c16db176c9f569
   const [notifications, setNotifications] = useState(3);
   const [showNotifications, setShowNotifications] = useState(false);
   const [showUserMenu, setShowUserMenu] = useState(false);

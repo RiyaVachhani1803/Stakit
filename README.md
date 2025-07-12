@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # OdooHackathon
 =======
+=======
+>>>>>>> 551a3f955a94b25a24a40ee942c16db176c9f569
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -17,7 +20,11 @@ pnpm dev
 bun dev
 ```
 
+<<<<<<< HEAD
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+=======
+Open [https://dkdd9k05-3000.inc1.devtunnels.ms/](https://dkdd9k05-3000.inc1.devtunnels.ms/) with your browser to see the result.
+>>>>>>> 551a3f955a94b25a24a40ee942c16db176c9f569
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
@@ -31,4 +38,7 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<<<<<<< HEAD
 >>>>>>> 1f94586 (Complete Frontend)
+=======
+>>>>>>> 551a3f955a94b25a24a40ee942c16db176c9f569

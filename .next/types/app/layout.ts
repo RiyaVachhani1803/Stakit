@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // File: C:\Users\RIYA\OneDrive\Desktop\OdooFrontend\app\layout.tsx
+=======
+// File: C:\Users\RIYA\OneDrive\Desktop\sss\app\layout.tsx
+>>>>>>> 551a3f955a94b25a24a40ee942c16db176c9f569
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
