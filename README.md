@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# OdooHackathon
-=======
-=======
->>>>>>> 551a3f955a94b25a24a40ee942c16db176c9f569
+# Frontend
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
