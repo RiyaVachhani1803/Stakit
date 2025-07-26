@@ -16,11 +16,10 @@ pnpm dev
 bun dev
 ```
 
-<<<<<<< HEAD
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-=======
+
 Open [https://dkdd9k05-3000.inc1.devtunnels.ms/](https://dkdd9k05-3000.inc1.devtunnels.ms/) with your browser to see the result.
->>>>>>> 551a3f955a94b25a24a40ee942c16db176c9f569
+
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
