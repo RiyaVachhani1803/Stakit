@@ -33,7 +33,4 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-<<<<<<< HEAD
->>>>>>> 1f94586 (Complete Frontend)
-=======
->>>>>>> 551a3f955a94b25a24a40ee942c16db176c9f569
+
