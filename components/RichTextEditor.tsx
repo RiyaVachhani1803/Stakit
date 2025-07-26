@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 551a3f955a94b25a24a40ee942c16db176c9f569
 'use client';
 
 import { useState, useRef, useEffect } from 'react';
